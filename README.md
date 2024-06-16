@@ -184,7 +184,7 @@ Replace `<MODEL_ID>` with the ID of your model from the list models command.
 
 After successfully fine-tuning and deploying your model, you can interact with your AI clone by following these steps:
 
-1. Navigate to the directory where you cloned the repository: `cd /path/to/cloned/repository`
+1. Navigate to the directory where you cloned this repository: `cd /path/to/cloned/repository`
 
 2. Open the `chat_with_ai.py` file in a text editor.
 
