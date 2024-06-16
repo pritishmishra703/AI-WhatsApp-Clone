@@ -132,7 +132,7 @@ A link will open, and you will be successfully signed in to firectl. Verify your
 firectl list accounts
 ```
 
-3. Add funds to your fireworks.ai account from https://fireworks.ai/billing (minimum is $5). Pricing details can be found at https://fireworks.ai/pricing ($0.5 per 1 million tokens for models up to 16B parameters).
+3. Add funds to your fireworks.ai account from https://fireworks.ai/billing (minimum is $5). Pricing details can be found at https://fireworks.ai/pricing ($0.5 per 1 million tokens for models up to 16B parameters). _It costed me $2 for the fine-tuning_.
 
 4. Upload the data:
 ```
